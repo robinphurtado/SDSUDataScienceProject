@@ -12,11 +12,11 @@ We plan to use machine-learning methods to we build a  classification model that
 
 # 4. Research Questions
 
-Which surveillance technologies are most commonly used by different agency types?
+* Which surveillance technologies are most commonly used by different agency types?
 
-Can we predict the set of technologies a typoe of agency is likely to use?
+* Can we predict the set of technologies a typoe of agency is likely to use?
 
-What is the probability that a type of Law Enforcement Agency would use each type of Technology?
+* What is the probability that a type of Law Enforcement Agency would use each type of Technology?
 
 # 5. Data Description
 
