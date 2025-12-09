@@ -2,7 +2,7 @@
 
 # 2. Team Members
 
-Robin Hurtado
+Robin Hurtado<br>
 Amy Tran 
 
 # 3. Project Overview
