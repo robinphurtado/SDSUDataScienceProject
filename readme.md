@@ -2,7 +2,7 @@
 
 # 2. Team Members
 
-Robin Hurtado
+Robin Hurtado<br>
 Amy Tran 
 
 # 3. Project Overview
@@ -12,13 +12,11 @@ We plan to use machine-learning methods to we build a  classification model that
 
 # 4. Research Questions
 
-(narrow this down as we get closer)
+* Which surveillance technologies are most commonly used by different agency types?
 
-Which surveillance technologies are most commonly used by different agency types?
+* Can we predict the set of technologies a typoe of agency is likely to use?
 
-Can we predict the set of technologies an agency is likely to use?
-
-(maybe this one? Which features (agency type, jurisdiction, etc.) best explain technology usage patterns?)
+* What is the probability that a type of Law Enforcement Agency would use each type of Technology?
 
 # 5. Data Description
 
@@ -56,9 +54,11 @@ Import data from Electronic Frontier Foundation on use of Automated License Plat
 
 # 7. Results
 
-(TBD)
+We were successfully able to predict the Technologies used by a type of Law Enforcement Agency using City, Sate, Type Of Law Enforcement Agency, and Jurisdiction as the features.
+
+We were successfully able to calculate the probability that each Technology would be used by a type of Law Enforcement Agency.
 
 # 8. Limitations
 
-(Scope, Data weakness, missing data? )
+This data was collected from Open Source Information, so it includes the Technologies and Law Enforcement Agencies for which data is publicly available.  It is not all-inclusive of all Technologies being used, and it does not include every city, state, and jurisdiction in the United States.
 
